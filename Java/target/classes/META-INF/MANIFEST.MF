@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1736343304376
+Build-Jdk: 11.0.25
+Built-By: HOANG
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Bundle-ManifestVersion: 2
+Bundle-Name: my-app
+Bundle-SymbolicName: org.cytoscape.sample-create-network
+Bundle-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: javax.swing,javax.swing.filechooser,org.cytoscape.applic
+ ation;version="[3.9,4)",org.cytoscape.model;version="[3.9,4)",org.cytos
+ cape.service.util;version="[3.9,4)",org.cytoscape.view.model;version="[
+ 3.9,4)",org.cytoscape.view.presentation.property;version="[3.9,4)",org.
+ cytoscape.view.vizmap;version="[3.9,4)",org.cytoscape.view.vizmap.mappi
+ ngs;version="[3.9,4)",org.cytoscape.work;version="[3.9,4)",org.osgi.fra
+ mework;version="[1.5,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
+Tool: Bnd-5.1.1.202006162103

@@ -1,0 +1,7 @@
+org\cytoscape\sample\internal\CyActivator.class
+org\cytoscape\sample\internal\NodeEmbeddingTask.class
+org\cytoscape\sample\internal\NodeEmbeddingTaskFactory.class
+org\cytoscape\sample\internal\GroupNodesTaskFactory.class
+org\cytoscape\sample\internal\NodeClassificationTaskFactory.class
+org\cytoscape\sample\internal\GroupNodesTask.class
+org\cytoscape\sample\internal\NodeClassificationTask.class
